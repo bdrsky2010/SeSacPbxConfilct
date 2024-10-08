@@ -51,7 +51,7 @@
 		7B5A94722CB4CCDC00F7E6A7 /* SeSacPbxConfilct */ = {
 			isa = PBXGroup;
 			children = (
-				7B5A94822CB4D1BC00F7E6A7 /* Timmy2 */,
+				7B5A94812CB4D04400F7E6A7 /* Timmy */,
 				7B5A94792CB4CCDD00F7E6A7 /* Preview Content */,
 			);
 			path = SeSacPbxConfilct;
@@ -65,14 +65,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		7B5A94822CB4D1BC00F7E6A7 /* Timmy2 */ = {
+		7B5A94812CB4D04400F7E6A7 /* Timmy */ = {
 			isa = PBXGroup;
 			children = (
 				7B5A94732CB4CCDC00F7E6A7 /* SeSacPbxConfilctApp.swift */,
 				7B5A94752CB4CCDC00F7E6A7 /* ContentView.swift */,
 				7B5A94772CB4CCDD00F7E6A7 /* Assets.xcassets */,
 			);
-			path = Timmy2;
+			path = Timmy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
